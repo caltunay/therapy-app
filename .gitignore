@@ -1,0 +1,5 @@
+therapy-app/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
