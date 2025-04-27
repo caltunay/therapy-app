@@ -4,8 +4,6 @@ import random
 from gtts import gTTS
 import os
 
-
-
 UNSPLASH_ACCESS_KEY = st.secrets['general']['unsplash_api_key']
 DEEPL_API_KEY = st.secrets['general']['deepl_api_key']
 PIXABAY_API_KEY = st.secrets['general']['pixabay_api_key']
